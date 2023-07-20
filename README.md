@@ -1,2 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TigerQAa&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![TigerQAa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerQAa&count_private=true&show_icons=true&theme=dark)
+![TigerQAa's GitHub stats](https://readme-stats-theta-one.vercel.app/api?username=TigerQAa&show_icons=true&theme=dark)
+[![Top Langs](https://readme-stats-theta-one.vercel.app/api/top-langs?username=TigerQaa&exclude_repo=readme-stats&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
